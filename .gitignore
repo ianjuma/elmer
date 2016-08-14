@@ -1,0 +1,24 @@
+# Temp files
+*~
+
+# Compile results
+target/**
+project/project/**
+project/target/**
+*pyc
+target
+.gitmodules
+
+*.log
+*.iml
+*.jar
+
+medusa-core/target/*
+medusa-xero/target/*
+medusa-hydra/target/*
+medusa-crunch/target/*
+
+# Rando's
+todo
+.idea
+.history
