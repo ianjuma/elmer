@@ -3,8 +3,8 @@
 
 ### About
 
-```elmer``` is a fraud detection service; it receives a payment transaction and determines using 
-ML whether the transaction is genuine or not.
+```elmer``` is a fraud detection service; it receives a payment transaction and labels the transaction as fraudulent or 
+non-fraudulent
 
 
 ### Depends
